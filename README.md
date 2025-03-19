@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C#.
 - 💞️ I’m looking to collaborate on a new game with friends in Unity.
 - 📫 Reach me via notifications please!
-- 😄 Pronouns: Mr. Pug, The Taconator, and CatUp.
+- 😄 Pronouns: Mr. Pug, The Taconator, and Rebel66Now (My Scratch Username).
 - ⚡ Fun fact: My username originated from the two things I like best, tacos and pugs!
 
 <!---
